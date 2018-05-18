@@ -1,4 +1,4 @@
-# https://github.com/docker-library/wordpress
+# https://github.com/docker-library/wordpress 
 
 ## Maintained by: [the Docker Community](https://github.com/docker-library/wordpress)
 
